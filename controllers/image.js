@@ -1,7 +1,7 @@
 const Clarifai = require('clarifai');
 
 const app = new Clarifai.App({
-    apiKey: 'bccee9805b074125a8bfd94bd55efdea'
+    apiKey: API_CLARIFAI //instead of putting key in quotes, made environment variable in heroku
 });
 
 const handleApiCall = (req, res) => {
