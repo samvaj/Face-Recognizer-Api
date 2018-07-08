@@ -23,3 +23,6 @@ To do list:
 •	Have error messages when API is unable to detect face
 
 •	Draw box around all faces in a picture instead of just one
+
+## Frontend
+https://github.com/rrangith/Face-Recognizer
